@@ -14,3 +14,7 @@ blogdown::serve_site()
 # library(lubridate)
 # source("Functions.R")
 # Update_Publications(id = "f1GjB04AAAAJ&hl")
+
+# /!\ Now we use the academic tool for that: https://github.com/sourcethemes/academic-admin
+# Use:
+# academic import --bibtex references.bib

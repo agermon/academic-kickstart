@@ -1,0 +1,13 @@
+---
+title: "Effects of microclimatic variables on the symptoms and signs onset of Moniliophthora roreri, causal agent of Moniliophthora pod rot in cacao"
+date: 2017-10-01
+publishDate: 2020-05-05T15:11:09.236947Z
+authors: ["Mariela E. Leandro-Muñoz", "Philippe Tixier", "Amandine Germon", "Veromanitra Rakotobe", "Wilbert Phillips-Mora", "Siela Maximova", "Jacques Avelino"]
+publication_types: ["2"]
+abstract: "Moniliophthora Pod Rot (MPR) caused by the fungus Moniliophthora roreri (Cif.) Evans et al., is one of the main limiting factors of cocoa production in Latin America. Currently insufficient information on the biology and epidemiology of the pathogen limits the development of efficient management options to control MPR. This research aims to elucidate MPR development through the following daily microclimatic variables: minimum and maximum temperatures, wetness frequency, average temperature and relative humidity in the highly susceptible cacao clone Pound-7 (incidence = 86% 2008–2013 average). A total of 55 cohorts totaling 2,268 pods of 3–10 cm length, one to two months of age, were tagged weekly. Pods were assessed throughout their lifetime, every one or two weeks, and classified in 3 different categories: healthy, diseased with no sporulation, diseased with sporulating lesions. As a first step, we used Generalized Linear Mixed Models (GLMM) to determine with no a priori the period (when and for how long) each climatic variable was better related with the appearance of symptoms and sporulation. Then the significance of the candidate variables was tested in a complete GLMM. Daily average wetness frequency from day 14 to day 1, before tagging, and daily average maximum temperature from day 4 to day 21, after tagging, were the most explanatory variables of the symptoms appearance. The former was positively linked with the symptoms appearance when the latter exhibited a maximum at 30°C. The most important variables influencing sporulation were daily average minimum temperature from day 35 to day 58 and daily average maximum temperature from day 37 to day 48, both after tagging. Minimum temperature was negatively linked with the sporulation while maximum temperature was positively linked. Results indicated that the fungal microclimatic requirements vary from the early to the late cycle stages, possibly due to the pathogen’s long latent period. This information is valuable for development of new conceptual models for MPR and improvement of control methods."
+featured: false
+publication: "*PLoS ONE*"
+url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5626025/"
+doi: "10.1371/journal.pone.0184638"
+---
+
