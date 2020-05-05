@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "University of Illinois"
   company_url = "https://illinois.edu/"
   location = "Urbana-Champaign"
-  date_start = "2019-09-01"
+  date_start = "2019-10-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -40,6 +40,6 @@ date_format = "Jan 2006"
   location = "Botucatu (Brazil) - Montpellier (France)"
   date_start = "2015-09-01"
   date_end = "2019-06-21"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Consequences of clear-cutting on the production of fine roots, CO2, CH4 and N2O down to the water table in coppice-managed Eucalyptus grandisstands in a throughfall-exclusion experiment"""
 
 +++
