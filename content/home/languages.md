@@ -15,29 +15,27 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = ""
-  icon_pack = "fab"
   name = "French"
-  description = "100%"
+  progress = "100%"
+  color = "#fdb157"
 
-[[feature]]
-  icon = ""
-  icon_pack = "fas"
-  name = "Spanish"
-  description = "100%"
-  
-[[feature]]
-  icon = ""
-  icon_pack = "fas"
+[[feature]]      
   name = "English"
-  description = "80%"
-
-[[feature]]
-  icon = ""
-  icon_pack = "fas"
-  name = "Portuguese"
-  description = "95%"
+  progress = "90%"
+  color = "#9473e6"
   
+[[feature]]      
+  name = "Spanish"
+  progress = "100%"
+  color = "#bdecf6"
+  
+[[feature]]      
+  name = "Portuguese"
+  progress = "90%"
+  color = "#ffbcaa"
+  
+[[feature]]      
+  name = "Italian"
+  progress = "15%"
+  color = "black"
 +++
-
-Just a test! 
