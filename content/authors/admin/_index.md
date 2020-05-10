@@ -67,5 +67,5 @@ user_groups:
 - Visitors
 ---
 
-I am a post-doctoral researcher working on plants roots growth and development. I am currently working for the University of Illinois at Urbana-Champaign for the [CABBI](https://cabbi.bio) project in [Andrew Leakey's laboratory](https://lab.igb.illinois.edu/leakey/).
+I am a post-doctoral researcher working on plants roots growth and development. I am currently working for the University of Illinois at Urbana-Champaign for the [CABBI](https://cabbi.bio) project in [Andrew Leakey's](https://lab.igb.illinois.edu/leakey/) and [Wendy Yang's](https://sib.illinois.edu/yang/) labs.
 

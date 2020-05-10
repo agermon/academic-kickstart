@@ -7,5 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: ""
+tags: ["Functional ecology", "Fine roots", "Roots", "deep soil"]
 ---
 

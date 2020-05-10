@@ -1,5 +1,5 @@
 ---
-title: "How deep can ectomycorrhizae go? A case study down to 4 meter depth in a Brazilian #Eucalyptus# plantation under rainfall reduction"
+title: "How deep can ectomycorrhizae go? A case study down to 4 meter depth in a Brazilian Eucalyptus plantation under rainfall reduction"
 date: 2018-09-01
 publishDate: 2020-05-05T15:11:09.238943Z
 authors: ["Agnès Robin", "Céline Pradier", "Hervé Sanguin", "Frédéric Mahe", "George Rodrigues Lambais", "Arthur Prudêncio de Araujo Pereira", "Amandine Germon", "Maiele Cintra", "Pierre Tisseyre", "Anne-laure Pablo", "Pauline Heuillard", "Marie Saudavet", "Jean-Pierre Bouillet", "Fernando Dini Androte", "Claude Plassard", "Elke Jurandy Bran Nogueira Cardoso", "Jean-Paul Laclau", "Philippe Hinsinger", "Christophe Jourdan"]

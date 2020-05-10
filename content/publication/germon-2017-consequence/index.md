@@ -7,5 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: ""
+tags: ["Deep fine roots", "Functional ecology", "Eucalyptus", "GHG", "Greenhouse gas", "Fine roots", "deep soil", "CO2", "N2O"]
 ---
 

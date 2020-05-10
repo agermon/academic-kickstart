@@ -3,7 +3,7 @@
 widget = "lang_skills"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 32  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Languages"
 subtitle = ""
@@ -37,5 +37,5 @@ subtitle = ""
 [[feature]]      
   name = "Italian"
   progress = "15%"
-  color = "black"
+  color = "#88d8b0"
 +++
