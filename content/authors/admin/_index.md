@@ -21,9 +21,6 @@ organizations:
 bio: My research interests include plants root growth and development, soil water and GHG fluxes.
 
 interests:
-- Root growth  
-- Root development  
-- Soil GHG emissions   
 - Root system 
 - Structure-Function interaction
 - Ecophysiology
