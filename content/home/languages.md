@@ -17,25 +17,25 @@ subtitle = ""
 [[feature]]
   name = "French"
   progress = "100%"
-  color = "#fdb157"
+  color = "#88d8b0"
 
 [[feature]]      
   name = "English"
   progress = "90%"
-  color = "#9473e6"
+  color = "#bdecf6"
   
 [[feature]]      
   name = "Spanish"
   progress = "100%"
-  color = "#bdecf6"
+  color = "#ffbcaa"
   
 [[feature]]      
   name = "Portuguese"
   progress = "90%"
-  color = "#ffbcaa"
+  color = "#fdb157"
   
 [[feature]]      
   name = "Italian"
-  progress = "15%"
-  color = "#88d8b0"
+  progress = "40%"
+  color = "#9473e6"
 +++
