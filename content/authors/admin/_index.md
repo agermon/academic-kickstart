@@ -21,18 +21,29 @@ organizations:
 bio: My research interests include plants root growth and development, soil water and GHG fluxes.
 
 interests:
-- Root growth
-- Root development 
-- Soil GHG emissions 
+- Root growth  
+- Root development  
+- Soil GHG emissions   
+- Root system 
+- Structure-Function interaction
+- Ecophysiology
+- Tropical planted forest
+- Agroforestry
+- Soil GHG emissions
+- Deep Soils
+- R language
 
 education:
   courses:
   - course: PhD in Functional Ecology
     institution: Joint UNESP (São Paulo State University) and SupAgro School (Montpellier)
     year: 2019
-  - course: Msc - Engineer in agronomy from French "Hautes Ecoles"
+  - course: Msc - Engineer in agronomy from French "Hautes Ecoles". Dominant Deepening in Environmental management of Tropical ecosystems and Forests
     institution: AgroParisTech
     year: 2014
+  - course: Pre-specialisation in Science and Environmental Engineering
+    institution: University of Agronomics and Food Industries of Nancy – ENSAIA - FRANCE
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,5 +78,5 @@ user_groups:
 - Visitors
 ---
 
-I am a post-doctoral researcher working on plants roots growth and development. I am currently working for the University of Illinois at Urbana-Champaign for the [CABBI](https://cabbi.bio) project in [Andrew Leakey's](https://lab.igb.illinois.edu/leakey/) and [Wendy Yang's](https://sib.illinois.edu/yang/) labs.
+I am a post-doctoral researcher working on plants roots growth and development. I am currently working for the University of Illinois at Urbana-Champaign for the [CABBI](https://cabbi.bio) project in [Andrew Leakey's](https://lab.igb.illinois.edu/leakey/) and [Wendy Yang's](https://sib.illinois.edu/yang/) labs. Our goals are to understand the genetic and physiological controls of root growth, water uptake and biological nitrification inhibition through a combination of molecular genetics, quantitative genetics, and physiology.
 

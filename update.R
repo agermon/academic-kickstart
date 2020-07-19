@@ -3,7 +3,7 @@
 # Install Hugo (first time only) ------------------------------------------
 
 # install.packages("blogdown")
-# blogdown::install_hugo(version = "0.63.1", force = TRUE)
+# blogdown::install_hugo(version = "0.66.0", force = TRUE)
 blogdown::serve_site()
 # blogdown::build_site()
 

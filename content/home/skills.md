@@ -31,5 +31,16 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistics"
   description = "80%"  
+
+[[feature]]
+  icon = "fa-pencil-square"
+  icon_pack = "fas"
+  name = "WinRHIZO Tron"
+  description = "100%"  
   
+[[feature]]
+  icon = "fa-pencil"
+  icon_pack = "fas"
+  name = "WinRHIZO"
+  description = "100%"  
 +++
