@@ -79,5 +79,8 @@ user_groups:
 - Visitors
 ---
 
-I am a post-doctoral researcher working on plants roots growth and development. I am currently working for the University of Illinois at Urbana-Champaign for the [CABBI](https://cabbi.bio) project in [Andrew Leakey's](https://lab.igb.illinois.edu/leakey/) and [Wendy Yang's](https://sib.illinois.edu/yang/) labs. Our goals are to understand the genetic and physiological controls of root growth, water uptake and biological nitrification inhibition through a combination of molecular genetics, quantitative genetics, and physiology.
+My research interests are on plants' root systems architecture, dynamics and functions (trees, annual crops) in tropical and temperate environments, in interaction with other biotic soil components, including ecosystems services provided to agro-ecosystems. I seek to better understand the mechanisms by which the “soil engineers” represented by the roots affect the primary production, nutrients cycling, soil erosion, and to evaluate their potential for climate change mitigation through carbon sequestration. 
+
+I am a post-doctoral researcher working on plant roots growth and development. I am working for the University of Illinois at Urbana-Champaign for the [CABBI](https://cabbi.bio) project. Our goals are to understand the genetic and physiological controls of root growth, water uptake and biological nitrification inhibition through a combination of molecular genetics, quantitative genetics, and physiology.
+
 
