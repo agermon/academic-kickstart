@@ -79,7 +79,7 @@ user_groups:
 - Visitors
 ---
 
-My research interests are on plants' root systems architecture, dynamics and functions (trees, annual crops) in tropical and temperate environments, in interaction with other biotic soil components, including ecosystems services provided to agro-ecosystems. I seek to better understand the mechanisms by which the “soil engineers” represented by the roots affect the primary production, nutrients cycling, soil erosion, and to evaluate their potential for climate change mitigation through carbon sequestration. 
+My research interests are on plants' root systems architecture, dynamics and functions (trees, annual crops) in tropical and temperate environments, in interaction with other biotic soil components, including ecosystems services provided to agro-ecosystems. I like to think about roots as soil enginners, and I seek to better understand the mechanisms by which they affect the primary production, nutrients cycling or soil erosion, and to evaluate their potential for climate change mitigation through carbon sequestration. 
 
 I am a post-doctoral researcher working on plant roots growth and development. I am working for the University of Illinois at Urbana-Champaign for the [CABBI](https://cabbi.bio) project. Our goals are to understand the genetic and physiological controls of root growth, water uptake and biological nitrification inhibition through a combination of molecular genetics, quantitative genetics, and physiology.
 
