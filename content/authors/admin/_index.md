@@ -79,8 +79,8 @@ user_groups:
 - Visitors
 ---
 
-My research interests are on plants' root systems architecture, dynamics and functions (trees, annual crops) in tropical and temperate environments, in interaction with other biotic soil components, including ecosystems services provided to agro-ecosystems. I like to think about roots as soil enginners, and I seek to better understand the mechanisms by which they affect the primary production, nutrients cycling or soil erosion, and to evaluate their potential for climate change mitigation through carbon sequestration. 
+My research interests span from root systems architecture, to dynamics and functions in tropical and temperate environments. I am fascinated by the complex and enigmatic way in which plants interact with and alter the environment below ground. Throughout my career, I have sought to understand how roots interact with biotic soil components to provide ecosystem services to agro-ecosystems, as well as evaluating the degree to which carbon sequestration can mitigate climate change. Furthermore, I seek to better understand the mechanisms through which roots affect plant primary production, water and nutrients cycles and soil erosion.
 
-I am a post-doctoral researcher working on plant roots growth and development. I am working for the University of Illinois at Urbana-Champaign for the [CABBI](https://cabbi.bio) project. Our goals are to understand the genetic and physiological controls of root growth, water uptake and biological nitrification inhibition through a combination of molecular genetics, quantitative genetics, and physiology.
+I am a post-doctoral researcher working on plant roots growth and development. I am working for the University of Illinois at Urbana-Champaign for the [CABBI](https://cabbi.bio) project. I am studying the interactions between roots, shoots and microbes to influence water use efficiency and nitrogen cycling in model C4 grasses. Our goals are to understand the genetic and physiological controls of root growth, water uptake and biological nitrification inhibition through a combination of molecular genetics, anatomy, and physiology.
 
 
